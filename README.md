@@ -1,5 +1,5 @@
 # Skills
-## Devops
+## DevOps
 - 💾 Git
 - 🔁 Github Actions
 - 🐳 Docker
